@@ -177,19 +177,19 @@ python notebooks/analysis.py
 ## Visuals
 
 ### Demand vs Supply by City
-![Demand vs Supply](visuals/01_demand_supply.png)
+![Demand vs Supply](https://github.com/Abhiram99099/serveiq-usa-analytics/blob/main/visuals/01_demand_supply.png?raw=true)
 
 ### Price Band Analysis
-![Pricing](visuals/02_pricing_analysis.png)
+![Pricing](https://github.com/Abhiram99099/serveiq-usa-analytics/blob/main/visuals/02_pricing_analysis.png?raw=true)
 
 ### Cohort Retention Matrix
-![Cohort Retention](visuals/03_cohort_retention.png)
+![Cohort Retention](https://github.com/Abhiram99099/serveiq-usa-analytics/blob/main/visuals/03_cohort_retention.png?raw=true)
 
 ### Provider Pareto Analysis
-![Provider Pareto](visuals/04_provider_pareto.png)
+![Provider Pareto](https://github.com/Abhiram99099/serveiq-usa-analytics/blob/main/visuals/04_provider_pareto.png?raw=true)
 
 ### Cancellation Analysis
-![Cancellations](visuals/05_cancellation_analysis.png)
+![Cancellations](https://github.com/Abhiram99099/serveiq-usa-analytics/blob/main/visuals/05_cancellation_analysis.png?raw=true)
 
 ---
 
