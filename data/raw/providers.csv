@@ -1,0 +1,161 @@
+provider_id,city,join_date,service_category,avg_rating,total_jobs_completed,is_active,experience_years,background_check_passed
+PRV00001,"Seattle, WA",2022-08-28,Handyman,3.9,99,False,3,True
+PRV00002,"San Francisco, CA",2023-11-12,Handyman,4.1,184,True,8,True
+PRV00003,"New York, NY",2023-06-06,Lawn Care,3.6,85,True,19,True
+PRV00004,"Chicago, IL",2023-07-04,Plumbing,4.4,409,True,4,True
+PRV00005,"Dallas, TX",2022-09-14,Cleaning,4.3,80,True,18,True
+PRV00006,"Los Angeles, CA",2023-02-26,Electrical,4.3,189,True,11,True
+PRV00007,"Los Angeles, CA",2023-10-16,Handyman,4.6,133,True,14,True
+PRV00008,"Denver, CO",2023-11-07,Plumbing,4.9,390,True,18,True
+PRV00009,"Miami, FL",2022-07-02,Moving,4.0,302,True,16,True
+PRV00010,"Seattle, WA",2023-06-28,Handyman,4.4,204,True,3,True
+PRV00011,"Chicago, IL",2022-07-10,Plumbing,4.3,237,True,15,True
+PRV00012,"New York, NY",2023-01-04,Painting,4.4,440,True,4,True
+PRV00013,"New York, NY",2022-08-21,Cleaning,4.4,445,True,5,True
+PRV00014,"Los Angeles, CA",2022-12-18,Cleaning,4.9,470,True,17,True
+PRV00015,"New York, NY",2023-08-21,Handyman,4.0,30,True,7,True
+PRV00016,"New York, NY",2023-08-02,HVAC,3.5,73,True,16,False
+PRV00017,"Miami, FL",2022-07-08,Handyman,3.9,174,False,14,True
+PRV00018,"San Francisco, CA",2022-12-28,Lawn Care,4.5,36,False,16,True
+PRV00019,"Los Angeles, CA",2023-08-18,Electrical,4.2,320,True,7,True
+PRV00020,"New York, NY",2023-04-23,Plumbing,4.0,294,True,9,True
+PRV00021,"Dallas, TX",2023-01-13,Handyman,3.7,290,True,4,True
+PRV00022,"New York, NY",2022-07-18,Electrical,4.3,173,True,11,True
+PRV00023,"Miami, FL",2022-06-18,Lawn Care,4.5,233,True,2,False
+PRV00024,"Chicago, IL",2023-08-13,Painting,4.3,155,True,12,True
+PRV00025,"Chicago, IL",2022-12-04,Painting,4.1,39,True,12,True
+PRV00026,"Chicago, IL",2023-05-11,Electrical,4.3,54,True,4,True
+PRV00027,"New York, NY",2023-01-10,Handyman,4.3,480,True,18,True
+PRV00028,"Austin, TX",2023-10-01,Cleaning,4.3,43,True,7,True
+PRV00029,"San Francisco, CA",2023-01-15,Plumbing,3.7,436,True,1,True
+PRV00030,"San Francisco, CA",2023-06-25,Plumbing,4.3,230,True,13,True
+PRV00031,"New York, NY",2024-01-10,Painting,4.0,543,False,6,True
+PRV00032,"Dallas, TX",2022-12-05,Painting,4.7,376,False,6,True
+PRV00033,"Dallas, TX",2023-02-25,Cleaning,4.3,559,True,12,True
+PRV00034,"Seattle, WA",2024-01-28,HVAC,4.6,591,True,8,True
+PRV00035,"Chicago, IL",2023-04-06,Handyman,4.1,125,True,19,True
+PRV00036,"Chicago, IL",2022-10-10,Painting,4.1,248,True,5,True
+PRV00037,"Austin, TX",2023-12-03,Painting,4.9,344,True,18,True
+PRV00038,"Austin, TX",2022-08-11,Painting,4.4,450,True,5,True
+PRV00039,"Chicago, IL",2022-12-04,Plumbing,3.9,157,True,10,True
+PRV00040,"Chicago, IL",2023-09-29,Handyman,4.6,18,True,1,False
+PRV00041,"Chicago, IL",2022-12-08,Lawn Care,4.0,297,True,10,True
+PRV00042,"Seattle, WA",2023-07-27,Handyman,4.3,397,True,5,True
+PRV00043,"Chicago, IL",2022-09-28,Electrical,5.0,59,True,12,True
+PRV00044,"Miami, FL",2023-01-06,Cleaning,3.6,526,True,7,True
+PRV00045,"Chicago, IL",2022-07-23,HVAC,4.1,596,False,9,True
+PRV00046,"Denver, CO",2023-08-25,Painting,4.4,287,True,12,False
+PRV00047,"Seattle, WA",2023-07-17,Painting,4.5,309,True,1,True
+PRV00048,"Los Angeles, CA",2023-01-23,Handyman,3.6,598,False,11,True
+PRV00049,"Seattle, WA",2023-07-11,HVAC,3.5,144,False,15,False
+PRV00050,"New York, NY",2024-01-29,Painting,4.7,589,True,2,True
+PRV00051,"Miami, FL",2023-07-27,HVAC,3.9,156,False,7,True
+PRV00052,"Austin, TX",2023-02-02,Lawn Care,3.9,499,True,12,True
+PRV00053,"New York, NY",2022-08-11,Moving,4.9,487,True,18,True
+PRV00054,"Austin, TX",2022-12-02,Cleaning,4.2,168,True,3,True
+PRV00055,"Boston, MA",2022-06-06,HVAC,4.2,393,True,7,True
+PRV00056,"New York, NY",2022-12-23,Plumbing,4.1,172,True,11,True
+PRV00057,"Dallas, TX",2023-11-26,Electrical,3.6,450,True,18,True
+PRV00058,"San Francisco, CA",2023-06-22,Plumbing,4.5,198,True,12,True
+PRV00059,"Seattle, WA",2022-08-15,Painting,4.4,424,True,6,True
+PRV00060,"Chicago, IL",2022-11-24,Lawn Care,4.3,348,True,5,True
+PRV00061,"Los Angeles, CA",2023-05-15,Lawn Care,4.1,190,True,1,True
+PRV00062,"New York, NY",2023-02-10,Plumbing,4.1,297,True,12,True
+PRV00063,"Dallas, TX",2023-04-04,Cleaning,4.6,196,True,11,True
+PRV00064,"Chicago, IL",2023-05-11,Plumbing,4.1,147,True,4,True
+PRV00065,"Denver, CO",2022-10-05,Handyman,4.2,139,False,18,True
+PRV00066,"New York, NY",2023-03-14,Painting,4.4,203,True,4,True
+PRV00067,"San Francisco, CA",2024-01-17,Painting,4.3,325,True,17,True
+PRV00068,"New York, NY",2023-09-30,Plumbing,4.9,153,True,2,True
+PRV00069,"New York, NY",2023-06-18,Electrical,3.4,25,True,2,True
+PRV00070,"Chicago, IL",2023-07-11,Electrical,4.3,311,True,12,True
+PRV00071,"Chicago, IL",2023-06-23,Painting,3.9,432,True,6,True
+PRV00072,"San Francisco, CA",2023-11-07,Moving,3.8,254,True,10,True
+PRV00073,"Miami, FL",2023-12-09,Electrical,4.0,116,True,16,True
+PRV00074,"Austin, TX",2023-03-03,Plumbing,4.2,97,False,14,True
+PRV00075,"Denver, CO",2023-10-13,Electrical,4.2,138,True,7,True
+PRV00076,"Miami, FL",2023-05-03,Painting,3.5,350,True,19,True
+PRV00077,"Dallas, TX",2023-09-24,Cleaning,4.0,13,False,17,True
+PRV00078,"Seattle, WA",2023-02-28,HVAC,4.3,336,True,9,True
+PRV00079,"Austin, TX",2022-07-28,Electrical,3.8,419,True,13,True
+PRV00080,"New York, NY",2023-04-24,Handyman,3.7,315,True,5,True
+PRV00081,"San Francisco, CA",2022-09-17,Cleaning,3.2,234,True,5,True
+PRV00082,"New York, NY",2023-03-06,Moving,3.9,357,True,10,True
+PRV00083,"Austin, TX",2023-04-24,Handyman,3.7,330,True,10,True
+PRV00084,"San Francisco, CA",2023-04-11,Plumbing,3.8,568,True,7,True
+PRV00085,"New York, NY",2023-09-17,HVAC,4.1,190,True,15,True
+PRV00086,"Los Angeles, CA",2022-09-19,Plumbing,3.9,395,True,7,True
+PRV00087,"Miami, FL",2023-01-15,HVAC,3.7,117,True,15,False
+PRV00088,"Austin, TX",2023-10-10,HVAC,3.2,540,True,3,True
+PRV00089,"Los Angeles, CA",2022-11-03,Plumbing,4.3,419,False,19,True
+PRV00090,"San Francisco, CA",2023-09-16,Handyman,4.5,305,True,10,True
+PRV00091,"Austin, TX",2023-02-27,Handyman,4.0,180,True,15,True
+PRV00092,"Chicago, IL",2022-06-02,HVAC,4.1,340,True,3,True
+PRV00093,"Boston, MA",2023-10-24,Handyman,4.2,502,True,6,True
+PRV00094,"San Francisco, CA",2023-03-13,HVAC,4.9,204,True,12,True
+PRV00095,"Chicago, IL",2022-06-13,Painting,3.5,21,True,15,True
+PRV00096,"Seattle, WA",2024-01-29,HVAC,4.0,204,False,6,True
+PRV00097,"Miami, FL",2023-10-11,Painting,3.4,499,False,13,True
+PRV00098,"New York, NY",2023-01-24,Cleaning,4.4,191,True,19,True
+PRV00099,"Los Angeles, CA",2022-09-02,Lawn Care,4.1,325,True,3,True
+PRV00100,"Los Angeles, CA",2023-05-04,Cleaning,4.3,39,True,8,True
+PRV00101,"San Francisco, CA",2022-11-18,Plumbing,4.3,105,True,8,True
+PRV00102,"Austin, TX",2024-01-27,Lawn Care,4.6,390,True,15,True
+PRV00103,"Austin, TX",2023-12-19,Electrical,4.4,453,True,4,True
+PRV00104,"Denver, CO",2023-09-10,Plumbing,4.6,307,True,19,True
+PRV00105,"Seattle, WA",2022-10-21,Moving,3.7,370,True,3,True
+PRV00106,"New York, NY",2022-12-18,Cleaning,4.7,383,True,13,True
+PRV00107,"Los Angeles, CA",2022-11-27,Handyman,3.9,563,False,8,True
+PRV00108,"Chicago, IL",2023-05-30,Cleaning,3.9,312,True,16,True
+PRV00109,"Chicago, IL",2023-09-22,Handyman,4.3,430,True,13,True
+PRV00110,"San Francisco, CA",2023-12-17,Lawn Care,4.3,255,True,3,True
+PRV00111,"Miami, FL",2023-09-14,Moving,3.7,246,True,16,True
+PRV00112,"Los Angeles, CA",2023-06-19,Lawn Care,4.1,543,True,9,True
+PRV00113,"Dallas, TX",2023-07-22,Moving,4.9,194,True,14,True
+PRV00114,"Seattle, WA",2023-04-04,Cleaning,3.5,477,True,13,True
+PRV00115,"Chicago, IL",2023-06-02,Handyman,4.9,372,True,7,True
+PRV00116,"New York, NY",2022-06-01,Lawn Care,4.1,292,True,15,True
+PRV00117,"Chicago, IL",2022-07-14,Moving,3.1,562,True,7,True
+PRV00118,"New York, NY",2022-09-06,HVAC,3.6,345,True,6,True
+PRV00119,"Denver, CO",2023-02-20,Plumbing,3.8,171,False,2,True
+PRV00120,"New York, NY",2022-10-18,Plumbing,3.9,169,True,9,True
+PRV00121,"Chicago, IL",2023-09-24,Lawn Care,4.2,483,True,17,True
+PRV00122,"Dallas, TX",2023-01-23,Handyman,3.0,331,True,5,True
+PRV00123,"Boston, MA",2022-08-11,HVAC,4.3,21,False,12,True
+PRV00124,"New York, NY",2022-12-07,Lawn Care,3.7,433,True,1,True
+PRV00125,"New York, NY",2023-02-23,Cleaning,4.8,82,True,10,True
+PRV00126,"New York, NY",2023-04-17,Moving,4.1,597,True,11,True
+PRV00127,"New York, NY",2022-09-15,Painting,4.6,210,True,16,True
+PRV00128,"Los Angeles, CA",2023-01-18,Cleaning,4.7,531,True,14,True
+PRV00129,"Austin, TX",2022-07-12,Plumbing,4.7,514,True,8,True
+PRV00130,"Los Angeles, CA",2022-10-17,Moving,3.9,48,False,17,True
+PRV00131,"New York, NY",2023-02-28,Lawn Care,3.9,69,True,18,True
+PRV00132,"Seattle, WA",2023-09-24,Cleaning,4.1,587,True,12,True
+PRV00133,"Los Angeles, CA",2023-07-21,Electrical,4.5,330,True,17,True
+PRV00134,"Los Angeles, CA",2023-10-19,Painting,4.0,444,True,14,True
+PRV00135,"Los Angeles, CA",2023-07-29,Handyman,4.1,417,False,16,True
+PRV00136,"Boston, MA",2023-07-12,HVAC,4.3,395,True,14,True
+PRV00137,"New York, NY",2023-12-20,HVAC,3.8,578,True,9,False
+PRV00138,"Miami, FL",2023-06-25,Handyman,3.8,87,True,4,True
+PRV00139,"Seattle, WA",2023-05-08,Electrical,4.1,203,True,11,True
+PRV00140,"New York, NY",2023-10-06,Plumbing,4.2,294,True,6,True
+PRV00141,"Boston, MA",2022-12-09,Moving,4.4,536,True,15,True
+PRV00142,"Los Angeles, CA",2023-10-12,Handyman,4.5,533,False,5,True
+PRV00143,"New York, NY",2023-01-19,Electrical,3.7,165,False,11,True
+PRV00144,"Seattle, WA",2023-01-13,Lawn Care,3.8,349,True,18,True
+PRV00145,"San Francisco, CA",2023-06-06,Painting,3.8,134,False,13,True
+PRV00146,"Austin, TX",2022-10-17,HVAC,4.8,289,True,11,True
+PRV00147,"New York, NY",2022-10-27,Painting,4.1,137,True,14,True
+PRV00148,"Chicago, IL",2022-09-23,Electrical,4.2,323,True,18,True
+PRV00149,"Seattle, WA",2023-08-24,Painting,4.2,341,True,19,True
+PRV00150,"Los Angeles, CA",2022-08-02,Plumbing,3.9,159,True,15,True
+PRV00151,"Los Angeles, CA",2022-09-12,Plumbing,4.9,463,True,9,True
+PRV00152,"New York, NY",2023-02-28,Cleaning,4.4,45,True,8,True
+PRV00153,"New York, NY",2022-06-06,Handyman,4.2,429,True,1,True
+PRV00154,"Seattle, WA",2022-10-25,Cleaning,3.7,31,True,4,True
+PRV00155,"Chicago, IL",2022-12-01,Painting,3.7,215,True,14,True
+PRV00156,"Boston, MA",2022-06-28,HVAC,4.1,365,True,2,False
+PRV00157,"Chicago, IL",2023-12-02,Electrical,3.9,449,True,16,True
+PRV00158,"San Francisco, CA",2022-09-27,Moving,3.7,105,True,3,True
+PRV00159,"Los Angeles, CA",2023-03-20,Painting,4.0,173,True,8,True
+PRV00160,"Los Angeles, CA",2023-06-06,Moving,4.1,157,False,6,True

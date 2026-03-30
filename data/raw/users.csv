@@ -1,0 +1,601 @@
+user_id,city,signup_date,age_group,gender,acquisition_channel,zip_code
+USR00001,"Los Angeles, CA",2023-01-05,46-55,Female,Organic Search,94444
+USR00002,"Miami, FL",2024-04-10,26-35,Male,Paid Search,94040
+USR00003,"Austin, TX",2024-06-17,26-35,Female,Organic Search,31644
+USR00004,"Dallas, TX",2024-02-09,36-45,Female,Paid Search,72021
+USR00005,"New York, NY",2024-05-27,26-35,Female,Paid Search,47125
+USR00006,"New York, NY",2023-08-21,46-55,Female,Organic Search,76899
+USR00007,"New York, NY",2024-06-07,46-55,Male,Organic Search,52291
+USR00008,"San Francisco, CA",2023-12-12,36-45,Female,Paid Search,45060
+USR00009,"Dallas, TX",2023-02-15,18-25,Female,Paid Search,11538
+USR00010,"Austin, TX",2024-06-29,26-35,Female,Referral,46176
+USR00011,"New York, NY",2023-03-19,36-45,Female,Referral,51520
+USR00012,"Miami, FL",2023-03-14,55+,Male,Social Media,35675
+USR00013,"San Francisco, CA",2023-09-06,36-45,Male,Referral,28287
+USR00014,"New York, NY",2023-02-16,26-35,Male,Paid Search,10174
+USR00015,"New York, NY",2023-05-01,36-45,Male,Referral,44998
+USR00016,"New York, NY",2023-08-02,36-45,Female,Organic Search,63312
+USR00017,"Los Angeles, CA",2023-08-27,36-45,Male,Paid Search,22112
+USR00018,"Chicago, IL",2023-02-25,18-25,Female,Social Media,85225
+USR00019,"Chicago, IL",2023-12-16,36-45,Female,Paid Search,54814
+USR00020,"Los Angeles, CA",2023-04-17,36-45,Male,Social Media,95091
+USR00021,"Dallas, TX",2023-02-17,55+,Female,Social Media,60719
+USR00022,"New York, NY",2023-12-03,26-35,Male,Social Media,43919
+USR00023,"Los Angeles, CA",2023-01-26,36-45,Female,Social Media,83155
+USR00024,"Los Angeles, CA",2023-09-14,55+,Male,Paid Search,81569
+USR00025,"Chicago, IL",2023-01-08,18-25,Male,Paid Search,51328
+USR00026,"Austin, TX",2023-09-10,55+,Male,Referral,80482
+USR00027,"New York, NY",2023-10-30,36-45,Male,Paid Search,34618
+USR00028,"Chicago, IL",2023-02-25,18-25,Male,Referral,44675
+USR00029,"Dallas, TX",2024-06-09,26-35,Female,Referral,28919
+USR00030,"New York, NY",2024-04-18,36-45,Female,Referral,14173
+USR00031,"Dallas, TX",2023-01-28,18-25,Female,Paid Search,36400
+USR00032,"New York, NY",2023-03-19,36-45,Male,Organic Search,60445
+USR00033,"New York, NY",2023-08-04,26-35,Female,Paid Search,80305
+USR00034,"Miami, FL",2024-01-21,36-45,Male,Organic Search,47564
+USR00035,"Miami, FL",2023-12-31,18-25,Female,Social Media,55814
+USR00036,"San Francisco, CA",2024-06-09,46-55,Female,Paid Search,89747
+USR00037,"Los Angeles, CA",2023-11-08,55+,Male,Organic Search,98791
+USR00038,"New York, NY",2023-01-07,55+,Female,Organic Search,37962
+USR00039,"Austin, TX",2023-01-03,36-45,Female,Referral,94892
+USR00040,"Chicago, IL",2023-12-29,26-35,Female,Referral,95842
+USR00041,"New York, NY",2024-05-22,36-45,Male,Paid Search,80533
+USR00042,"Chicago, IL",2023-10-01,18-25,Male,Organic Search,66184
+USR00043,"New York, NY",2024-05-20,18-25,Female,Paid Search,92912
+USR00044,"Seattle, WA",2023-01-15,26-35,Female,Paid Search,20578
+USR00045,"Los Angeles, CA",2023-07-11,26-35,Female,Referral,28624
+USR00046,"Dallas, TX",2024-04-29,36-45,Male,Referral,49194
+USR00047,"Los Angeles, CA",2023-01-28,36-45,Male,Paid Search,10389
+USR00048,"Chicago, IL",2023-02-08,26-35,Female,Organic Search,77391
+USR00049,"Dallas, TX",2023-09-30,26-35,Female,App Store,23794
+USR00050,"New York, NY",2023-08-19,55+,Female,Paid Search,68002
+USR00051,"Miami, FL",2023-03-27,26-35,Male,Referral,45531
+USR00052,"Austin, TX",2024-04-18,26-35,Male,Organic Search,62815
+USR00053,"Seattle, WA",2023-05-06,26-35,Female,Paid Search,14986
+USR00054,"Seattle, WA",2024-06-20,46-55,Female,Organic Search,42298
+USR00055,"Dallas, TX",2023-05-25,36-45,Female,Paid Search,11481
+USR00056,"Seattle, WA",2024-06-08,26-35,Male,App Store,66408
+USR00057,"New York, NY",2023-07-31,18-25,Female,Paid Search,79267
+USR00058,"New York, NY",2023-01-25,36-45,Male,Organic Search,26835
+USR00059,"New York, NY",2024-01-29,36-45,Male,Organic Search,37798
+USR00060,"Los Angeles, CA",2023-03-08,26-35,Female,Paid Search,74887
+USR00061,"Los Angeles, CA",2023-08-21,55+,Female,Organic Search,29477
+USR00062,"Los Angeles, CA",2023-04-19,26-35,Female,Organic Search,27266
+USR00063,"San Francisco, CA",2023-05-26,26-35,Male,Referral,96328
+USR00064,"Los Angeles, CA",2023-04-21,55+,Male,Paid Search,95988
+USR00065,"Los Angeles, CA",2023-08-16,26-35,Male,Organic Search,53526
+USR00066,"Dallas, TX",2023-04-21,36-45,Female,Social Media,21889
+USR00067,"New York, NY",2024-04-14,26-35,Female,Organic Search,34335
+USR00068,"San Francisco, CA",2023-02-03,26-35,Male,App Store,21254
+USR00069,"New York, NY",2024-01-04,55+,Male,Paid Search,96610
+USR00070,"Denver, CO",2024-02-29,26-35,Female,Social Media,21442
+USR00071,"Austin, TX",2024-06-01,46-55,Male,Referral,56289
+USR00072,"New York, NY",2023-10-09,26-35,Male,Social Media,63747
+USR00073,"New York, NY",2023-11-16,26-35,Male,App Store,47327
+USR00074,"San Francisco, CA",2024-03-18,18-25,Male,Organic Search,26199
+USR00075,"Austin, TX",2023-11-11,36-45,Male,App Store,82827
+USR00076,"Austin, TX",2024-01-12,26-35,Male,Paid Search,10112
+USR00077,"Austin, TX",2023-10-16,46-55,Female,Paid Search,97051
+USR00078,"New York, NY",2024-03-12,26-35,Female,Paid Search,29581
+USR00079,"Los Angeles, CA",2023-10-04,55+,Male,Paid Search,69722
+USR00080,"New York, NY",2024-05-17,26-35,Female,Organic Search,26523
+USR00081,"San Francisco, CA",2024-05-30,46-55,Female,Paid Search,76960
+USR00082,"Dallas, TX",2023-12-16,36-45,Female,Paid Search,29552
+USR00083,"Los Angeles, CA",2024-03-21,36-45,Female,Referral,20808
+USR00084,"New York, NY",2023-12-16,46-55,Male,Social Media,82525
+USR00085,"Los Angeles, CA",2023-05-17,36-45,Male,Paid Search,33620
+USR00086,"Los Angeles, CA",2023-08-31,36-45,Female,Paid Search,10887
+USR00087,"Austin, TX",2024-06-26,26-35,Female,Organic Search,41802
+USR00088,"Dallas, TX",2023-02-09,18-25,Female,Organic Search,95024
+USR00089,"Seattle, WA",2023-08-17,55+,Male,Organic Search,91938
+USR00090,"Chicago, IL",2024-07-01,36-45,Male,Paid Search,96741
+USR00091,"New York, NY",2023-08-11,46-55,Female,Organic Search,36049
+USR00092,"Austin, TX",2023-01-06,26-35,Male,App Store,87789
+USR00093,"Austin, TX",2023-11-18,18-25,Male,Paid Search,94526
+USR00094,"Dallas, TX",2024-04-12,26-35,Male,Paid Search,17846
+USR00095,"Austin, TX",2023-03-16,36-45,Male,Referral,56220
+USR00096,"Chicago, IL",2023-01-04,26-35,Female,Organic Search,56163
+USR00097,"Chicago, IL",2023-04-28,26-35,Male,Paid Search,13765
+USR00098,"Chicago, IL",2024-05-18,26-35,Female,Referral,91486
+USR00099,"New York, NY",2024-03-16,18-25,Male,Paid Search,55270
+USR00100,"New York, NY",2023-07-13,36-45,Male,Paid Search,85277
+USR00101,"New York, NY",2024-01-27,26-35,Male,App Store,98278
+USR00102,"Dallas, TX",2023-01-26,46-55,Male,Social Media,32931
+USR00103,"Los Angeles, CA",2024-03-10,26-35,Female,Referral,99116
+USR00104,"Chicago, IL",2023-06-22,26-35,Male,Paid Search,65633
+USR00105,"Seattle, WA",2023-10-27,18-25,Non-binary/Other,Referral,90702
+USR00106,"Los Angeles, CA",2023-11-22,18-25,Male,Organic Search,61913
+USR00107,"Chicago, IL",2024-02-14,26-35,Female,Paid Search,35991
+USR00108,"Austin, TX",2023-04-28,26-35,Female,Organic Search,64845
+USR00109,"Los Angeles, CA",2023-08-13,36-45,Female,Paid Search,65312
+USR00110,"New York, NY",2024-06-15,26-35,Male,Paid Search,20561
+USR00111,"Los Angeles, CA",2023-04-23,36-45,Male,Organic Search,26901
+USR00112,"New York, NY",2023-05-20,46-55,Female,App Store,72875
+USR00113,"Seattle, WA",2023-01-01,36-45,Female,Social Media,35917
+USR00114,"San Francisco, CA",2023-03-31,18-25,Male,Referral,72120
+USR00115,"Dallas, TX",2023-11-16,26-35,Male,Paid Search,11988
+USR00116,"Seattle, WA",2023-05-19,18-25,Male,Social Media,24256
+USR00117,"San Francisco, CA",2024-05-25,26-35,Male,Organic Search,97728
+USR00118,"New York, NY",2023-09-16,55+,Female,Social Media,38230
+USR00119,"Seattle, WA",2023-01-10,26-35,Female,Organic Search,69778
+USR00120,"Dallas, TX",2023-09-18,26-35,Male,Social Media,55833
+USR00121,"San Francisco, CA",2023-06-21,36-45,Male,Organic Search,32625
+USR00122,"Seattle, WA",2023-01-13,36-45,Male,Social Media,42088
+USR00123,"Los Angeles, CA",2023-06-17,36-45,Male,App Store,89650
+USR00124,"New York, NY",2023-11-17,18-25,Male,Organic Search,51167
+USR00125,"Los Angeles, CA",2023-11-15,26-35,Female,Paid Search,81291
+USR00126,"Chicago, IL",2023-11-25,36-45,Female,App Store,75303
+USR00127,"San Francisco, CA",2024-02-23,18-25,Female,Paid Search,86361
+USR00128,"San Francisco, CA",2023-04-05,26-35,Female,Social Media,98229
+USR00129,"New York, NY",2023-11-14,18-25,Male,Referral,14117
+USR00130,"Chicago, IL",2023-08-24,18-25,Non-binary/Other,Paid Search,70710
+USR00131,"Chicago, IL",2023-11-30,26-35,Female,Organic Search,77054
+USR00132,"Los Angeles, CA",2024-01-11,26-35,Female,Organic Search,40949
+USR00133,"New York, NY",2024-04-03,36-45,Male,Referral,32547
+USR00134,"Los Angeles, CA",2023-05-17,36-45,Female,Paid Search,91882
+USR00135,"Miami, FL",2024-06-30,46-55,Male,Paid Search,78136
+USR00136,"Los Angeles, CA",2024-05-27,26-35,Male,Paid Search,74619
+USR00137,"Chicago, IL",2023-10-23,26-35,Male,Paid Search,71842
+USR00138,"Austin, TX",2023-11-16,18-25,Female,Social Media,36990
+USR00139,"Los Angeles, CA",2023-12-15,36-45,Female,App Store,26193
+USR00140,"Miami, FL",2023-08-17,36-45,Male,Paid Search,40109
+USR00141,"Miami, FL",2023-09-27,18-25,Male,Social Media,29233
+USR00142,"Los Angeles, CA",2023-10-18,55+,Female,Referral,91730
+USR00143,"Chicago, IL",2023-06-14,18-25,Male,Paid Search,44510
+USR00144,"Los Angeles, CA",2023-01-05,36-45,Female,App Store,11306
+USR00145,"Los Angeles, CA",2024-01-14,36-45,Male,Organic Search,13849
+USR00146,"New York, NY",2023-03-19,46-55,Female,Organic Search,22360
+USR00147,"Dallas, TX",2024-02-14,36-45,Male,Social Media,55800
+USR00148,"Chicago, IL",2023-05-12,46-55,Female,Paid Search,46963
+USR00149,"New York, NY",2023-02-11,26-35,Female,Social Media,64330
+USR00150,"Los Angeles, CA",2023-03-30,46-55,Female,Social Media,61707
+USR00151,"Seattle, WA",2024-02-06,18-25,Female,Organic Search,28689
+USR00152,"Los Angeles, CA",2023-10-23,46-55,Male,Social Media,39084
+USR00153,"New York, NY",2023-10-22,36-45,Non-binary/Other,Paid Search,50387
+USR00154,"Chicago, IL",2024-06-09,46-55,Female,Paid Search,84816
+USR00155,"Denver, CO",2024-02-26,26-35,Female,Referral,12642
+USR00156,"Los Angeles, CA",2023-01-23,36-45,Male,Social Media,52137
+USR00157,"Austin, TX",2023-05-23,36-45,Male,Organic Search,89832
+USR00158,"Austin, TX",2023-05-25,36-45,Male,Paid Search,65561
+USR00159,"Los Angeles, CA",2023-08-13,18-25,Female,Referral,72260
+USR00160,"Austin, TX",2024-05-17,18-25,Female,Referral,25438
+USR00161,"Los Angeles, CA",2023-04-14,26-35,Male,Referral,58442
+USR00162,"Dallas, TX",2023-02-08,26-35,Female,Organic Search,12994
+USR00163,"Dallas, TX",2023-07-17,46-55,Male,Organic Search,11813
+USR00164,"Dallas, TX",2024-01-26,26-35,Female,Paid Search,94381
+USR00165,"New York, NY",2023-06-28,55+,Male,Social Media,65276
+USR00166,"San Francisco, CA",2024-03-23,26-35,Female,Organic Search,51243
+USR00167,"Los Angeles, CA",2024-05-14,26-35,Male,Organic Search,72912
+USR00168,"New York, NY",2023-01-15,46-55,Female,App Store,70272
+USR00169,"New York, NY",2023-10-16,36-45,Male,Organic Search,52051
+USR00170,"Dallas, TX",2024-04-22,26-35,Female,App Store,88854
+USR00171,"Austin, TX",2023-08-19,36-45,Male,Referral,92736
+USR00172,"New York, NY",2024-02-24,36-45,Male,Social Media,75618
+USR00173,"Chicago, IL",2023-06-06,26-35,Male,Organic Search,11920
+USR00174,"Los Angeles, CA",2024-03-16,55+,Male,Organic Search,87219
+USR00175,"Dallas, TX",2023-04-07,55+,Male,Referral,86872
+USR00176,"New York, NY",2024-02-15,36-45,Male,Social Media,91132
+USR00177,"Austin, TX",2023-10-16,26-35,Female,Referral,12093
+USR00178,"Los Angeles, CA",2023-09-11,36-45,Male,Organic Search,22905
+USR00179,"Seattle, WA",2023-07-15,18-25,Female,Referral,34351
+USR00180,"New York, NY",2024-06-05,18-25,Female,Referral,40981
+USR00181,"Los Angeles, CA",2024-05-31,26-35,Female,Referral,83903
+USR00182,"New York, NY",2023-04-28,26-35,Female,Referral,80821
+USR00183,"Seattle, WA",2023-06-08,46-55,Male,Social Media,92289
+USR00184,"Seattle, WA",2023-08-16,36-45,Male,Referral,94021
+USR00185,"Los Angeles, CA",2023-08-04,36-45,Male,Organic Search,88513
+USR00186,"Dallas, TX",2023-01-15,26-35,Female,Paid Search,29874
+USR00187,"San Francisco, CA",2023-06-06,26-35,Female,Organic Search,60931
+USR00188,"Dallas, TX",2023-09-18,26-35,Female,Paid Search,17674
+USR00189,"Chicago, IL",2023-06-06,55+,Female,Paid Search,60516
+USR00190,"Los Angeles, CA",2023-02-16,18-25,Female,Organic Search,70686
+USR00191,"New York, NY",2023-11-20,46-55,Female,Paid Search,79212
+USR00192,"Seattle, WA",2023-05-10,36-45,Female,Organic Search,12426
+USR00193,"Seattle, WA",2024-02-15,26-35,Male,Social Media,78498
+USR00194,"Dallas, TX",2023-04-05,36-45,Male,App Store,39943
+USR00195,"Los Angeles, CA",2023-10-19,26-35,Non-binary/Other,Organic Search,76395
+USR00196,"Los Angeles, CA",2023-10-10,46-55,Male,App Store,54816
+USR00197,"Austin, TX",2023-03-10,46-55,Male,Paid Search,14138
+USR00198,"Seattle, WA",2023-01-11,26-35,Female,Organic Search,85945
+USR00199,"Seattle, WA",2023-09-11,26-35,Male,Organic Search,14017
+USR00200,"Austin, TX",2023-05-14,36-45,Male,Paid Search,20451
+USR00201,"Dallas, TX",2023-01-23,46-55,Female,Social Media,72956
+USR00202,"New York, NY",2023-12-12,26-35,Female,Referral,20278
+USR00203,"New York, NY",2023-10-29,36-45,Male,Organic Search,53764
+USR00204,"Seattle, WA",2023-12-29,36-45,Female,Organic Search,11134
+USR00205,"Dallas, TX",2024-01-31,36-45,Male,Paid Search,72943
+USR00206,"New York, NY",2023-08-06,26-35,Male,Organic Search,64318
+USR00207,"New York, NY",2023-05-21,36-45,Female,Organic Search,70128
+USR00208,"Dallas, TX",2023-07-29,46-55,Female,Organic Search,98056
+USR00209,"New York, NY",2024-04-04,26-35,Female,Social Media,31869
+USR00210,"New York, NY",2023-12-22,26-35,Female,Social Media,15039
+USR00211,"Dallas, TX",2023-11-20,55+,Female,Paid Search,31281
+USR00212,"Austin, TX",2023-05-13,26-35,Male,Social Media,20442
+USR00213,"Dallas, TX",2023-05-07,46-55,Female,Paid Search,83788
+USR00214,"Los Angeles, CA",2023-04-16,26-35,Female,Paid Search,37586
+USR00215,"Austin, TX",2024-01-13,26-35,Female,Organic Search,63053
+USR00216,"Los Angeles, CA",2023-02-20,46-55,Male,Referral,60489
+USR00217,"Los Angeles, CA",2023-01-29,26-35,Female,App Store,93104
+USR00218,"Austin, TX",2024-04-06,36-45,Female,Referral,96346
+USR00219,"Dallas, TX",2023-10-23,26-35,Male,Paid Search,77087
+USR00220,"San Francisco, CA",2023-10-24,36-45,Male,Referral,22625
+USR00221,"Dallas, TX",2024-02-11,26-35,Female,Organic Search,44397
+USR00222,"Dallas, TX",2024-02-09,26-35,Male,Social Media,68671
+USR00223,"New York, NY",2023-12-12,55+,Female,Paid Search,76897
+USR00224,"Los Angeles, CA",2024-02-24,26-35,Female,Paid Search,36149
+USR00225,"Los Angeles, CA",2023-07-01,36-45,Female,Referral,70030
+USR00226,"Los Angeles, CA",2023-01-01,26-35,Female,Referral,79906
+USR00227,"Miami, FL",2024-01-06,36-45,Male,Organic Search,15283
+USR00228,"Los Angeles, CA",2024-03-06,26-35,Female,Referral,17610
+USR00229,"Seattle, WA",2023-11-05,55+,Female,Organic Search,53326
+USR00230,"Dallas, TX",2023-05-17,26-35,Male,Referral,24924
+USR00231,"San Francisco, CA",2023-07-21,26-35,Male,Social Media,86162
+USR00232,"Chicago, IL",2024-03-11,18-25,Female,Social Media,10869
+USR00233,"Dallas, TX",2023-11-09,26-35,Male,Paid Search,11014
+USR00234,"Chicago, IL",2023-04-27,36-45,Female,Paid Search,20103
+USR00235,"New York, NY",2023-09-01,26-35,Male,Organic Search,92522
+USR00236,"Austin, TX",2024-06-20,46-55,Male,Referral,43458
+USR00237,"Los Angeles, CA",2023-03-16,26-35,Male,Organic Search,92409
+USR00238,"New York, NY",2024-01-21,26-35,Female,Paid Search,33248
+USR00239,"Dallas, TX",2023-07-29,36-45,Female,Organic Search,99160
+USR00240,"New York, NY",2024-04-19,36-45,Female,Organic Search,53516
+USR00241,"Miami, FL",2024-02-22,26-35,Female,Referral,39061
+USR00242,"Miami, FL",2023-12-13,26-35,Female,Organic Search,34170
+USR00243,"Seattle, WA",2024-06-12,18-25,Male,Referral,18024
+USR00244,"Los Angeles, CA",2023-06-28,36-45,Female,Paid Search,92214
+USR00245,"New York, NY",2023-07-01,36-45,Female,Organic Search,95947
+USR00246,"Seattle, WA",2023-01-25,26-35,Male,Paid Search,53803
+USR00247,"Chicago, IL",2023-06-29,46-55,Female,Organic Search,29296
+USR00248,"Miami, FL",2024-05-15,46-55,Male,Organic Search,96664
+USR00249,"Miami, FL",2023-06-10,36-45,Female,Referral,28257
+USR00250,"San Francisco, CA",2023-06-26,46-55,Female,Organic Search,22855
+USR00251,"Los Angeles, CA",2023-10-12,26-35,Female,Social Media,95178
+USR00252,"Los Angeles, CA",2023-03-04,18-25,Female,Organic Search,30025
+USR00253,"San Francisco, CA",2023-06-05,26-35,Male,Organic Search,14458
+USR00254,"Los Angeles, CA",2024-04-13,18-25,Female,Referral,73610
+USR00255,"New York, NY",2023-02-18,36-45,Female,Paid Search,80843
+USR00256,"Dallas, TX",2023-03-25,55+,Female,Organic Search,93961
+USR00257,"Seattle, WA",2023-12-27,18-25,Female,Paid Search,59831
+USR00258,"Austin, TX",2023-05-28,26-35,Male,Organic Search,53427
+USR00259,"Dallas, TX",2023-12-08,26-35,Female,Social Media,48506
+USR00260,"New York, NY",2024-04-20,55+,Male,Paid Search,15668
+USR00261,"Dallas, TX",2023-03-04,26-35,Male,Social Media,57195
+USR00262,"Boston, MA",2023-12-26,36-45,Male,Social Media,83233
+USR00263,"New York, NY",2023-11-23,18-25,Male,Paid Search,34417
+USR00264,"Chicago, IL",2023-05-21,26-35,Female,Social Media,91982
+USR00265,"Seattle, WA",2023-08-03,55+,Female,Paid Search,20751
+USR00266,"Austin, TX",2024-03-10,55+,Female,App Store,56218
+USR00267,"Austin, TX",2023-11-14,18-25,Male,Organic Search,17352
+USR00268,"Austin, TX",2023-02-01,55+,Non-binary/Other,Referral,89052
+USR00269,"Los Angeles, CA",2023-10-12,36-45,Female,Paid Search,98835
+USR00270,"Los Angeles, CA",2023-11-01,46-55,Male,Paid Search,38927
+USR00271,"San Francisco, CA",2024-03-04,26-35,Female,Referral,51094
+USR00272,"San Francisco, CA",2024-04-21,36-45,Male,Referral,64122
+USR00273,"San Francisco, CA",2023-10-13,26-35,Female,Organic Search,39493
+USR00274,"Seattle, WA",2023-05-24,36-45,Male,Organic Search,83539
+USR00275,"Chicago, IL",2024-02-28,26-35,Male,Referral,41707
+USR00276,"Chicago, IL",2023-01-19,18-25,Female,Referral,78814
+USR00277,"San Francisco, CA",2023-01-18,26-35,Female,App Store,17296
+USR00278,"Dallas, TX",2024-01-06,36-45,Female,Referral,35398
+USR00279,"Austin, TX",2023-06-24,26-35,Female,App Store,45842
+USR00280,"San Francisco, CA",2023-07-13,36-45,Female,Referral,23261
+USR00281,"Seattle, WA",2024-05-16,55+,Male,Organic Search,86709
+USR00282,"Los Angeles, CA",2023-04-23,18-25,Male,Organic Search,66704
+USR00283,"Los Angeles, CA",2023-04-24,36-45,Female,Social Media,77173
+USR00284,"New York, NY",2023-08-10,26-35,Female,Referral,41781
+USR00285,"Dallas, TX",2023-09-21,46-55,Male,Organic Search,23652
+USR00286,"New York, NY",2023-02-24,26-35,Male,Paid Search,15103
+USR00287,"Chicago, IL",2024-04-02,36-45,Female,App Store,35500
+USR00288,"Dallas, TX",2023-06-11,46-55,Male,Paid Search,45529
+USR00289,"Los Angeles, CA",2024-01-15,55+,Male,Paid Search,28452
+USR00290,"Dallas, TX",2023-03-28,36-45,Female,Paid Search,59393
+USR00291,"New York, NY",2023-02-24,26-35,Female,Organic Search,41174
+USR00292,"New York, NY",2024-04-20,36-45,Female,Paid Search,74450
+USR00293,"San Francisco, CA",2023-06-27,46-55,Female,Paid Search,45436
+USR00294,"Los Angeles, CA",2024-01-26,36-45,Male,Organic Search,57406
+USR00295,"New York, NY",2023-12-15,18-25,Male,Referral,73059
+USR00296,"Chicago, IL",2023-01-08,55+,Male,Paid Search,25954
+USR00297,"Austin, TX",2023-11-09,36-45,Female,Social Media,92722
+USR00298,"New York, NY",2024-03-18,36-45,Female,Social Media,22356
+USR00299,"Dallas, TX",2023-11-24,26-35,Male,Organic Search,12187
+USR00300,"New York, NY",2023-02-23,36-45,Male,Referral,87243
+USR00301,"New York, NY",2023-08-27,26-35,Female,Paid Search,45098
+USR00302,"Dallas, TX",2023-08-17,36-45,Female,Social Media,31225
+USR00303,"Dallas, TX",2023-02-20,18-25,Male,Organic Search,13606
+USR00304,"Dallas, TX",2023-09-21,36-45,Female,Referral,67620
+USR00305,"Austin, TX",2024-02-22,55+,Female,Referral,42828
+USR00306,"Miami, FL",2023-04-06,18-25,Male,Organic Search,36489
+USR00307,"Chicago, IL",2023-03-29,55+,Female,Organic Search,24387
+USR00308,"Los Angeles, CA",2023-03-19,26-35,Female,Referral,79463
+USR00309,"San Francisco, CA",2023-10-15,46-55,Female,Referral,81832
+USR00310,"Los Angeles, CA",2023-04-30,46-55,Female,Paid Search,12591
+USR00311,"Chicago, IL",2024-05-05,36-45,Male,Referral,58516
+USR00312,"New York, NY",2024-03-27,36-45,Female,Paid Search,72061
+USR00313,"New York, NY",2024-05-14,46-55,Female,Referral,76736
+USR00314,"Miami, FL",2023-06-14,26-35,Male,Organic Search,91257
+USR00315,"San Francisco, CA",2023-07-01,26-35,Male,Social Media,71753
+USR00316,"Austin, TX",2024-04-13,36-45,Male,Organic Search,94774
+USR00317,"Chicago, IL",2023-01-07,46-55,Female,Paid Search,21087
+USR00318,"New York, NY",2023-11-26,36-45,Female,Organic Search,40816
+USR00319,"New York, NY",2023-05-31,46-55,Non-binary/Other,Organic Search,33408
+USR00320,"Los Angeles, CA",2023-03-26,26-35,Male,Paid Search,10136
+USR00321,"Dallas, TX",2023-05-27,46-55,Female,Organic Search,27413
+USR00322,"Austin, TX",2024-01-16,26-35,Female,Social Media,69500
+USR00323,"Dallas, TX",2024-07-01,36-45,Female,Organic Search,94514
+USR00324,"Los Angeles, CA",2023-10-12,18-25,Male,Paid Search,66358
+USR00325,"Miami, FL",2023-03-23,26-35,Female,Paid Search,76197
+USR00326,"Austin, TX",2024-05-28,26-35,Female,Organic Search,42854
+USR00327,"Dallas, TX",2024-06-06,26-35,Female,Organic Search,86240
+USR00328,"Dallas, TX",2024-01-21,36-45,Male,Paid Search,26322
+USR00329,"Chicago, IL",2024-04-15,26-35,Male,Paid Search,16968
+USR00330,"Los Angeles, CA",2023-04-29,26-35,Female,Paid Search,37518
+USR00331,"Los Angeles, CA",2024-01-31,26-35,Male,Paid Search,61925
+USR00332,"Austin, TX",2024-06-15,26-35,Male,Referral,69848
+USR00333,"New York, NY",2023-09-18,26-35,Female,Organic Search,11700
+USR00334,"New York, NY",2023-09-13,18-25,Female,Paid Search,33199
+USR00335,"New York, NY",2023-08-14,36-45,Female,App Store,54589
+USR00336,"New York, NY",2023-02-22,36-45,Male,Paid Search,42115
+USR00337,"San Francisco, CA",2024-05-14,36-45,Male,Referral,71934
+USR00338,"Austin, TX",2024-05-20,26-35,Male,Paid Search,64316
+USR00339,"Chicago, IL",2023-12-30,26-35,Male,Referral,15520
+USR00340,"New York, NY",2023-10-07,46-55,Female,Referral,46455
+USR00341,"Chicago, IL",2023-06-07,36-45,Male,Paid Search,96465
+USR00342,"Chicago, IL",2023-02-28,26-35,Female,App Store,51605
+USR00343,"New York, NY",2023-05-08,18-25,Female,Organic Search,24955
+USR00344,"Chicago, IL",2023-04-25,26-35,Male,Organic Search,54049
+USR00345,"Los Angeles, CA",2023-07-28,26-35,Male,Referral,23917
+USR00346,"Dallas, TX",2024-06-09,26-35,Female,Social Media,80293
+USR00347,"Dallas, TX",2024-06-04,36-45,Male,Organic Search,88581
+USR00348,"New York, NY",2023-08-25,36-45,Male,Organic Search,74925
+USR00349,"Los Angeles, CA",2023-10-08,36-45,Female,Organic Search,80269
+USR00350,"Dallas, TX",2023-12-25,36-45,Non-binary/Other,Organic Search,40954
+USR00351,"Chicago, IL",2023-07-20,46-55,Female,Referral,82617
+USR00352,"San Francisco, CA",2023-10-05,36-45,Female,Paid Search,51458
+USR00353,"Dallas, TX",2023-08-23,55+,Female,Paid Search,99037
+USR00354,"New York, NY",2024-05-08,18-25,Male,Paid Search,31113
+USR00355,"New York, NY",2023-01-04,26-35,Male,Organic Search,53939
+USR00356,"Dallas, TX",2024-03-17,18-25,Female,Organic Search,39345
+USR00357,"New York, NY",2023-01-29,36-45,Female,Referral,56313
+USR00358,"Dallas, TX",2023-04-19,46-55,Male,App Store,79166
+USR00359,"Miami, FL",2023-03-16,26-35,Female,Social Media,57861
+USR00360,"Dallas, TX",2023-05-26,55+,Male,Organic Search,59298
+USR00361,"Los Angeles, CA",2023-05-08,18-25,Male,Social Media,57221
+USR00362,"Dallas, TX",2023-02-11,55+,Female,Social Media,54942
+USR00363,"Chicago, IL",2023-12-22,26-35,Male,Social Media,13453
+USR00364,"Dallas, TX",2023-02-10,18-25,Female,Paid Search,64935
+USR00365,"Miami, FL",2023-02-03,26-35,Non-binary/Other,Paid Search,53370
+USR00366,"Los Angeles, CA",2023-01-17,26-35,Male,Paid Search,18328
+USR00367,"Miami, FL",2023-06-02,26-35,Male,Organic Search,25534
+USR00368,"Seattle, WA",2024-01-13,26-35,Female,Organic Search,95280
+USR00369,"New York, NY",2023-12-08,46-55,Male,Organic Search,94925
+USR00370,"New York, NY",2023-01-27,36-45,Female,Paid Search,46320
+USR00371,"New York, NY",2023-10-14,26-35,Female,Referral,59170
+USR00372,"New York, NY",2023-06-17,36-45,Female,Paid Search,90201
+USR00373,"New York, NY",2023-09-25,36-45,Male,Organic Search,18640
+USR00374,"Austin, TX",2024-03-30,26-35,Female,App Store,40049
+USR00375,"New York, NY",2024-02-05,26-35,Male,App Store,15618
+USR00376,"Los Angeles, CA",2024-04-20,26-35,Male,Social Media,66053
+USR00377,"San Francisco, CA",2023-05-10,26-35,Female,App Store,11920
+USR00378,"New York, NY",2023-12-29,36-45,Male,Paid Search,53937
+USR00379,"San Francisco, CA",2023-10-19,26-35,Female,App Store,79724
+USR00380,"Los Angeles, CA",2024-01-06,36-45,Male,Organic Search,22207
+USR00381,"New York, NY",2023-01-29,36-45,Male,Paid Search,75774
+USR00382,"Austin, TX",2023-05-29,18-25,Male,Organic Search,42972
+USR00383,"Dallas, TX",2023-10-23,36-45,Male,Organic Search,20799
+USR00384,"Seattle, WA",2023-01-11,26-35,Female,Organic Search,81088
+USR00385,"Austin, TX",2024-05-26,55+,Female,Referral,38916
+USR00386,"San Francisco, CA",2023-04-23,26-35,Male,Social Media,80463
+USR00387,"Los Angeles, CA",2023-07-06,46-55,Female,Paid Search,86700
+USR00388,"New York, NY",2023-08-15,36-45,Female,Organic Search,47158
+USR00389,"Austin, TX",2023-11-06,18-25,Female,Social Media,94607
+USR00390,"San Francisco, CA",2023-04-08,36-45,Male,Referral,81696
+USR00391,"Boston, MA",2023-02-24,55+,Female,Paid Search,71510
+USR00392,"Chicago, IL",2024-02-10,36-45,Female,Referral,68692
+USR00393,"Los Angeles, CA",2023-03-10,46-55,Male,Organic Search,71744
+USR00394,"Austin, TX",2023-11-08,46-55,Male,Paid Search,25810
+USR00395,"Los Angeles, CA",2023-10-16,26-35,Female,Social Media,15126
+USR00396,"Seattle, WA",2024-07-01,26-35,Female,Organic Search,40009
+USR00397,"San Francisco, CA",2023-05-28,36-45,Female,Paid Search,10192
+USR00398,"Chicago, IL",2024-04-11,26-35,Female,Social Media,46413
+USR00399,"Austin, TX",2023-09-01,46-55,Female,Referral,22816
+USR00400,"Austin, TX",2024-05-05,46-55,Male,Organic Search,49082
+USR00401,"New York, NY",2024-05-21,26-35,Male,Organic Search,75048
+USR00402,"Seattle, WA",2023-12-31,26-35,Male,Organic Search,60940
+USR00403,"Chicago, IL",2024-04-26,46-55,Female,Referral,42130
+USR00404,"San Francisco, CA",2023-07-20,26-35,Male,Paid Search,50142
+USR00405,"Los Angeles, CA",2023-06-03,46-55,Female,Organic Search,46468
+USR00406,"Seattle, WA",2024-03-25,26-35,Male,App Store,40698
+USR00407,"Los Angeles, CA",2024-05-15,36-45,Male,Paid Search,20655
+USR00408,"New York, NY",2023-03-14,18-25,Female,Organic Search,57897
+USR00409,"Seattle, WA",2023-10-23,36-45,Male,Paid Search,40075
+USR00410,"New York, NY",2023-01-17,26-35,Female,Referral,19359
+USR00411,"Los Angeles, CA",2023-08-05,36-45,Male,Organic Search,52056
+USR00412,"Miami, FL",2023-03-02,26-35,Female,Organic Search,61831
+USR00413,"Miami, FL",2023-02-11,36-45,Female,Social Media,69191
+USR00414,"Dallas, TX",2023-01-25,46-55,Male,Paid Search,43272
+USR00415,"Dallas, TX",2023-02-08,26-35,Female,Paid Search,24671
+USR00416,"Chicago, IL",2023-05-11,18-25,Male,Paid Search,37048
+USR00417,"Los Angeles, CA",2024-05-12,18-25,Female,Organic Search,86274
+USR00418,"Los Angeles, CA",2023-08-17,36-45,Male,Organic Search,35963
+USR00419,"Austin, TX",2023-04-18,36-45,Male,Paid Search,53954
+USR00420,"Austin, TX",2023-06-21,36-45,Female,Organic Search,82309
+USR00421,"San Francisco, CA",2024-03-10,26-35,Female,Organic Search,10717
+USR00422,"Austin, TX",2024-04-22,26-35,Female,Social Media,21676
+USR00423,"New York, NY",2023-04-12,36-45,Female,App Store,14434
+USR00424,"Chicago, IL",2024-06-07,26-35,Female,Social Media,59810
+USR00425,"New York, NY",2023-10-02,55+,Male,Social Media,14994
+USR00426,"Dallas, TX",2023-02-13,26-35,Male,Organic Search,14234
+USR00427,"Chicago, IL",2023-01-17,36-45,Male,App Store,79300
+USR00428,"Seattle, WA",2023-11-26,26-35,Male,Organic Search,53949
+USR00429,"Los Angeles, CA",2024-05-11,26-35,Male,App Store,47405
+USR00430,"New York, NY",2023-01-12,36-45,Male,App Store,44872
+USR00431,"New York, NY",2023-11-14,36-45,Female,Referral,52215
+USR00432,"Austin, TX",2023-08-04,55+,Male,App Store,33185
+USR00433,"Dallas, TX",2023-12-05,26-35,Male,Paid Search,53442
+USR00434,"New York, NY",2023-03-22,18-25,Male,Organic Search,61759
+USR00435,"New York, NY",2024-04-29,36-45,Female,Paid Search,51153
+USR00436,"Austin, TX",2024-01-09,36-45,Female,Referral,87535
+USR00437,"New York, NY",2023-07-19,26-35,Female,Organic Search,12581
+USR00438,"San Francisco, CA",2024-06-20,18-25,Male,Referral,61717
+USR00439,"Austin, TX",2024-04-10,18-25,Male,App Store,12763
+USR00440,"New York, NY",2023-03-30,46-55,Female,Organic Search,65480
+USR00441,"New York, NY",2023-09-25,26-35,Male,Social Media,48759
+USR00442,"Denver, CO",2024-05-03,26-35,Female,Social Media,86067
+USR00443,"Los Angeles, CA",2024-06-21,26-35,Female,App Store,35307
+USR00444,"Los Angeles, CA",2023-02-16,26-35,Female,App Store,21064
+USR00445,"San Francisco, CA",2023-10-15,18-25,Male,Paid Search,86848
+USR00446,"Miami, FL",2023-01-16,36-45,Male,App Store,47548
+USR00447,"Denver, CO",2024-02-05,18-25,Female,Referral,46945
+USR00448,"Austin, TX",2023-03-27,46-55,Male,Organic Search,57937
+USR00449,"Los Angeles, CA",2023-09-07,26-35,Female,Paid Search,16476
+USR00450,"New York, NY",2024-01-26,36-45,Male,Referral,61756
+USR00451,"Austin, TX",2023-12-01,46-55,Male,Organic Search,12382
+USR00452,"Dallas, TX",2024-06-02,36-45,Male,Referral,59683
+USR00453,"Chicago, IL",2023-05-17,36-45,Female,Referral,97999
+USR00454,"Seattle, WA",2024-05-12,26-35,Male,Organic Search,55276
+USR00455,"New York, NY",2024-04-21,26-35,Male,Paid Search,43402
+USR00456,"Chicago, IL",2023-08-11,36-45,Female,Referral,36946
+USR00457,"New York, NY",2024-01-07,55+,Male,Paid Search,89698
+USR00458,"Chicago, IL",2024-02-06,36-45,Female,Organic Search,83933
+USR00459,"New York, NY",2024-03-18,36-45,Male,Organic Search,32335
+USR00460,"New York, NY",2024-05-04,36-45,Female,Paid Search,55095
+USR00461,"New York, NY",2023-09-30,26-35,Male,Social Media,89930
+USR00462,"Dallas, TX",2024-06-09,18-25,Male,Organic Search,37197
+USR00463,"Austin, TX",2023-06-08,36-45,Female,Referral,32010
+USR00464,"Dallas, TX",2023-06-01,55+,Female,Organic Search,34123
+USR00465,"Miami, FL",2023-07-07,26-35,Female,Paid Search,97923
+USR00466,"Los Angeles, CA",2023-04-08,36-45,Female,Social Media,12890
+USR00467,"Los Angeles, CA",2023-05-11,26-35,Female,Referral,18026
+USR00468,"San Francisco, CA",2023-06-20,36-45,Male,Organic Search,74925
+USR00469,"Los Angeles, CA",2023-07-02,18-25,Female,Paid Search,78842
+USR00470,"Miami, FL",2023-12-30,26-35,Female,Organic Search,43665
+USR00471,"New York, NY",2023-02-08,36-45,Male,Paid Search,19277
+USR00472,"Miami, FL",2024-06-10,26-35,Female,Referral,52239
+USR00473,"New York, NY",2024-05-11,36-45,Male,Organic Search,57664
+USR00474,"Seattle, WA",2024-05-30,46-55,Male,Organic Search,58008
+USR00475,"Chicago, IL",2023-12-15,55+,Male,Paid Search,24683
+USR00476,"Boston, MA",2024-02-01,26-35,Male,Social Media,10670
+USR00477,"New York, NY",2023-06-10,26-35,Male,App Store,99211
+USR00478,"Dallas, TX",2023-01-16,26-35,Female,Organic Search,27889
+USR00479,"Miami, FL",2024-05-07,55+,Female,Referral,65612
+USR00480,"Chicago, IL",2024-03-01,55+,Female,Paid Search,54535
+USR00481,"Dallas, TX",2023-04-18,36-45,Male,Paid Search,88542
+USR00482,"Austin, TX",2024-03-25,46-55,Female,Referral,64319
+USR00483,"Chicago, IL",2023-11-07,36-45,Male,Social Media,31639
+USR00484,"Dallas, TX",2023-06-19,36-45,Non-binary/Other,App Store,74712
+USR00485,"Dallas, TX",2024-06-29,18-25,Male,Paid Search,26633
+USR00486,"Seattle, WA",2024-02-18,36-45,Female,Paid Search,44660
+USR00487,"New York, NY",2023-09-08,26-35,Female,Social Media,78975
+USR00488,"Los Angeles, CA",2023-05-21,46-55,Male,Organic Search,42172
+USR00489,"Miami, FL",2023-10-01,46-55,Male,Paid Search,69197
+USR00490,"Seattle, WA",2024-02-20,36-45,Female,Paid Search,68847
+USR00491,"Chicago, IL",2023-02-08,18-25,Female,Referral,21577
+USR00492,"Dallas, TX",2023-01-29,26-35,Male,Organic Search,87299
+USR00493,"Los Angeles, CA",2024-04-21,26-35,Male,Organic Search,30176
+USR00494,"New York, NY",2023-11-14,26-35,Male,Social Media,54386
+USR00495,"Chicago, IL",2023-09-02,18-25,Male,Organic Search,73972
+USR00496,"Los Angeles, CA",2023-09-29,55+,Male,Paid Search,99791
+USR00497,"Dallas, TX",2024-03-15,36-45,Female,Organic Search,51003
+USR00498,"New York, NY",2023-08-27,26-35,Female,Organic Search,29996
+USR00499,"Miami, FL",2024-01-12,26-35,Female,Organic Search,96598
+USR00500,"Denver, CO",2023-09-23,26-35,Female,Organic Search,45931
+USR00501,"Austin, TX",2023-12-25,36-45,Male,Social Media,45710
+USR00502,"Dallas, TX",2023-12-06,36-45,Male,Organic Search,44693
+USR00503,"Los Angeles, CA",2024-01-24,46-55,Male,App Store,45740
+USR00504,"San Francisco, CA",2023-01-03,26-35,Female,Referral,87241
+USR00505,"Austin, TX",2024-03-04,55+,Male,Paid Search,86502
+USR00506,"New York, NY",2023-05-22,46-55,Male,Referral,27374
+USR00507,"Seattle, WA",2024-01-11,26-35,Male,Paid Search,86674
+USR00508,"San Francisco, CA",2023-11-20,55+,Male,Referral,91471
+USR00509,"Miami, FL",2023-05-26,18-25,Female,Organic Search,55913
+USR00510,"Austin, TX",2023-10-20,46-55,Female,Paid Search,76025
+USR00511,"Dallas, TX",2024-03-07,26-35,Female,Social Media,54516
+USR00512,"Chicago, IL",2024-02-03,46-55,Female,App Store,97796
+USR00513,"Seattle, WA",2023-12-10,46-55,Female,Social Media,36069
+USR00514,"San Francisco, CA",2023-05-20,46-55,Male,Paid Search,66233
+USR00515,"New York, NY",2023-07-06,46-55,Male,Social Media,94811
+USR00516,"New York, NY",2023-03-02,26-35,Male,Paid Search,69049
+USR00517,"Los Angeles, CA",2024-01-15,18-25,Male,Paid Search,49178
+USR00518,"San Francisco, CA",2024-03-15,26-35,Female,Organic Search,42821
+USR00519,"Denver, CO",2023-11-15,26-35,Male,Referral,61727
+USR00520,"New York, NY",2023-10-29,36-45,Female,Organic Search,70935
+USR00521,"Dallas, TX",2023-12-10,26-35,Female,Paid Search,26999
+USR00522,"Los Angeles, CA",2023-01-11,55+,Female,Social Media,72522
+USR00523,"Miami, FL",2023-03-03,36-45,Female,Organic Search,48712
+USR00524,"San Francisco, CA",2023-08-14,46-55,Female,Organic Search,74551
+USR00525,"San Francisco, CA",2023-06-02,26-35,Female,Organic Search,50172
+USR00526,"Chicago, IL",2023-11-06,46-55,Female,App Store,43722
+USR00527,"Chicago, IL",2023-08-31,55+,Male,Paid Search,20625
+USR00528,"Los Angeles, CA",2024-05-07,26-35,Female,Paid Search,77165
+USR00529,"New York, NY",2024-01-01,36-45,Female,Social Media,86509
+USR00530,"San Francisco, CA",2023-11-26,36-45,Female,Social Media,16859
+USR00531,"San Francisco, CA",2023-04-17,26-35,Male,Paid Search,51609
+USR00532,"Boston, MA",2023-08-14,36-45,Female,Referral,53307
+USR00533,"Boston, MA",2023-08-06,26-35,Female,Referral,31839
+USR00534,"Dallas, TX",2024-05-20,26-35,Female,Referral,37216
+USR00535,"Austin, TX",2023-09-16,26-35,Female,Organic Search,62953
+USR00536,"Miami, FL",2024-05-31,18-25,Female,Social Media,94481
+USR00537,"San Francisco, CA",2023-02-23,18-25,Female,Paid Search,70593
+USR00538,"Los Angeles, CA",2023-02-16,26-35,Female,Organic Search,82075
+USR00539,"Chicago, IL",2024-06-04,55+,Female,Paid Search,59522
+USR00540,"New York, NY",2023-04-09,36-45,Female,Organic Search,14886
+USR00541,"Miami, FL",2023-01-20,55+,Male,Organic Search,17485
+USR00542,"Dallas, TX",2024-05-04,26-35,Male,Referral,41455
+USR00543,"Los Angeles, CA",2024-02-23,26-35,Female,Organic Search,26767
+USR00544,"Austin, TX",2023-03-03,36-45,Female,Paid Search,38453
+USR00545,"Dallas, TX",2023-05-25,26-35,Male,Paid Search,86280
+USR00546,"Los Angeles, CA",2023-08-04,18-25,Female,Organic Search,63442
+USR00547,"New York, NY",2023-01-03,36-45,Female,App Store,61877
+USR00548,"Austin, TX",2023-06-09,26-35,Male,Organic Search,22226
+USR00549,"Chicago, IL",2023-04-30,36-45,Female,Paid Search,32588
+USR00550,"Austin, TX",2023-03-30,36-45,Female,Paid Search,88976
+USR00551,"Chicago, IL",2023-11-25,26-35,Female,Organic Search,41709
+USR00552,"San Francisco, CA",2023-12-23,18-25,Male,Organic Search,57788
+USR00553,"Dallas, TX",2023-09-24,46-55,Female,Referral,98031
+USR00554,"Dallas, TX",2023-11-19,26-35,Male,App Store,47019
+USR00555,"Seattle, WA",2024-06-24,18-25,Non-binary/Other,Organic Search,54948
+USR00556,"Chicago, IL",2023-07-14,55+,Female,Referral,75133
+USR00557,"New York, NY",2023-11-28,18-25,Female,Referral,76458
+USR00558,"New York, NY",2023-06-19,36-45,Female,Social Media,37526
+USR00559,"Austin, TX",2024-06-04,55+,Female,Paid Search,83493
+USR00560,"Dallas, TX",2024-04-07,26-35,Female,Paid Search,62198
+USR00561,"Austin, TX",2023-02-09,26-35,Male,Paid Search,53395
+USR00562,"New York, NY",2024-06-20,26-35,Male,Referral,34031
+USR00563,"New York, NY",2023-09-18,26-35,Male,Social Media,85542
+USR00564,"New York, NY",2024-01-30,18-25,Female,Organic Search,47701
+USR00565,"Los Angeles, CA",2023-08-14,36-45,Male,Paid Search,35939
+USR00566,"Dallas, TX",2023-05-04,18-25,Male,Social Media,59145
+USR00567,"Los Angeles, CA",2023-02-07,36-45,Male,Social Media,30324
+USR00568,"Chicago, IL",2023-11-24,55+,Female,App Store,32867
+USR00569,"Seattle, WA",2023-09-08,46-55,Male,Referral,10203
+USR00570,"Los Angeles, CA",2023-06-25,36-45,Female,Paid Search,26544
+USR00571,"Chicago, IL",2024-03-29,26-35,Female,Referral,25899
+USR00572,"Austin, TX",2023-02-06,36-45,Female,Referral,39063
+USR00573,"Los Angeles, CA",2023-11-12,36-45,Male,Organic Search,13748
+USR00574,"Dallas, TX",2023-04-24,26-35,Male,Paid Search,76629
+USR00575,"San Francisco, CA",2023-02-09,26-35,Female,Referral,90764
+USR00576,"Miami, FL",2023-10-28,46-55,Female,Organic Search,30884
+USR00577,"New York, NY",2023-08-12,26-35,Female,Social Media,35183
+USR00578,"Seattle, WA",2023-11-14,26-35,Female,Referral,91570
+USR00579,"Chicago, IL",2023-12-15,26-35,Female,App Store,81246
+USR00580,"Los Angeles, CA",2023-04-25,26-35,Female,Organic Search,29259
+USR00581,"Chicago, IL",2023-11-19,46-55,Male,Organic Search,45959
+USR00582,"Denver, CO",2023-02-09,36-45,Female,Referral,43457
+USR00583,"Chicago, IL",2023-02-09,36-45,Female,Organic Search,95679
+USR00584,"Los Angeles, CA",2023-10-16,18-25,Female,Referral,12103
+USR00585,"Dallas, TX",2023-09-19,26-35,Male,Referral,75901
+USR00586,"Los Angeles, CA",2023-08-04,26-35,Male,Organic Search,54535
+USR00587,"New York, NY",2023-05-27,18-25,Male,Paid Search,26103
+USR00588,"New York, NY",2023-12-02,26-35,Female,Paid Search,88278
+USR00589,"New York, NY",2023-06-17,36-45,Male,Paid Search,22391
+USR00590,"New York, NY",2023-04-02,26-35,Female,App Store,38901
+USR00591,"New York, NY",2023-12-19,36-45,Male,Social Media,91159
+USR00592,"Dallas, TX",2023-12-29,26-35,Male,Referral,77914
+USR00593,"New York, NY",2023-12-11,18-25,Male,Referral,60357
+USR00594,"Los Angeles, CA",2023-06-19,26-35,Male,Paid Search,96908
+USR00595,"Seattle, WA",2023-12-22,55+,Male,Social Media,48437
+USR00596,"Chicago, IL",2023-07-10,46-55,Female,Referral,45503
+USR00597,"Dallas, TX",2024-02-26,55+,Male,Referral,85403
+USR00598,"New York, NY",2023-01-07,26-35,Female,Social Media,51258
+USR00599,"New York, NY",2023-05-13,18-25,Female,Organic Search,43724
+USR00600,"New York, NY",2023-01-31,36-45,Female,Social Media,74286
